@@ -18,4 +18,5 @@ We used the cubic equation solver from [here](https://github.com/shril/CubicEqua
 
 With parameters xpar, ypar, beta = 1/3.0, 1/5.0, -6.0
 
-[3D_graph_default_params.pdf](https://github.com/lenis2000/GrothendieckLimitShapes/files/11436828/3D_graph_default_params.pdf)
+
+<img width="1400" alt="a" src="https://github.com/lenis2000/GrothendieckLimitShapes/assets/2519977/5cf22594-1dd4-4a23-a93a-aae3cdc557ad">

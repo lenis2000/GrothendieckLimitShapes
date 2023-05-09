@@ -15,3 +15,7 @@ All parameters are hardcoded into the file. Note the special issues when all roo
 We used the cubic equation solver from [here](https://github.com/shril/CubicEquationSolver/tree/master)
 
 # Examples
+
+With parameters xpar, ypar, beta = 1/3.0, 1/5.0, -6.0
+
+[3D_graph_default_params.pdf](https://github.com/lenis2000/GrothendieckLimitShapes/files/11436828/3D_graph_default_params.pdf)
